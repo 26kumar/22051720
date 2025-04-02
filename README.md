@@ -11,6 +11,9 @@ This repository contains two distinct applications:
 1. **Social Media Analytics Dashboard**: A React-based frontend application that provides real-time analytical insights from social media data.
 2. **Average Calculator Microservice**: A Node.js service that calculates averages from various number sequences with a sliding window implementation.
 
+![image](https://github.com/user-attachments/assets/956927c4-5fbe-4bc2-9adb-26f990307b9c)
+
+
 ## Technologies Used
 
 ### Social Media Analytics Dashboard
@@ -147,4 +150,10 @@ pm2 start src/server.js
 │   └── ...
 └── README.md                   # This file
 ```
+
+
+### Error generated during development while handling API:
+![image](https://github.com/user-attachments/assets/7e6c0be1-90c0-4eff-8da4-22a3aaef53da)
+![image](https://github.com/user-attachments/assets/8b70f8fb-3b62-44e4-913b-180d3cae6b94)
+
 
